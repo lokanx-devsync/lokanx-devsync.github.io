@@ -36,11 +36,10 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 # Additions
 #
 
-gem "minimal-mistakes-jekyll"
-gem 'jemoji'
-gem "jekyll-paginate"
-gem "jekyll-sitemap"
-gem "jekyll-gist"
-gem "jekyll-include-cache"
-gem "jekyll-algolia"
-#gem 'jekyll-favicon'
+group :jekyll_plugins do
+   gem "minimal-mistakes-jekyll"
+   gem "jekyll-paginate"
+   gem "jekyll-sitemap"
+   gem "jekyll-include-cache"
+   gem "jekyll-algolia"
+ end
