@@ -1,0 +1,14 @@
+# main links
+main:
+   - title: "Hem"
+     url: /
+   - title: "Blog"
+     url: /blog/
+   - title: "Om"
+     url: /about/
+   - title: "Kontakt"
+     url: /contact/
+   - title: "Områdeskarta"
+     url: /sitemap/
+#   - title: "Quick-Start Guide"
+#     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/

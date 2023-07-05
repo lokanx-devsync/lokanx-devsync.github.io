@@ -1,7 +1,8 @@
 ---
-title: Contact
-permalink: /contact/
 layout: single
+title: Om
+lang: sv
+permalink: /about/
 author_profile: true
 ---
 

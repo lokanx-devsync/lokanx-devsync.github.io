@@ -1,0 +1,10 @@
+main:
+   title: "DevSync"
+
+author:
+  location: "Stockholm/Sweden"
+  bio: "DevSync Founder & Owner..."
+
+layout:
+  home:
+    recent_posts: "Recent Posts"
